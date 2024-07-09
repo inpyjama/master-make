@@ -20,7 +20,7 @@ RUN sudo apt-get install --no-install-recommends -y \
   python3-dev \
   python3-pip \
   binutils \
-  make \
+  make
 
 # terminal colors with xterm
 ENV TERM xterm
